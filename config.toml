@@ -1,0 +1,4 @@
+[sonarqube]
+absolute_exec_path = "xxx"
+key = "xxx"
+host = "xxx"

@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled Output
+bin/
+*.out
+
+# Local Dev Environment
+*.iml
+*.iws
+*.ipr
+
+# Dependency directories
+/vendor/
+
+# Go Meta Linter
+gometalinter.json
+gometalinter/
+.scannerwork/
+# End of https://www.toptal.com/developers/gitignore/api/go
